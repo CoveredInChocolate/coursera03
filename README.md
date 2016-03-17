@@ -13,13 +13,13 @@ Here is a list of the following files included in this repository:
 Download the project data from the following URL:  
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-After extracting the data, specify its location in the R-script run_analysis.R and run it. It will produce two data.frames with tidy data.
+After extracting the data, set the location of the folder "UCI HAR Dataset" as the working directory in the R-script run_analysis.R and run it. It will produce two data.frames with tidy data:
 
-    dataset
-    This data.frame contains the data from both the test and trial. The columns are Subject, Activity and one column for     every mean/standard deviation.
+**dataset**  
+This data.frame contains the data from both the test and trial. The columns are Subject, Activity and one column for every mean/standard deviation.
     
-    datamean
-    An aggregate table of dataset. Contains Subject and Activity, but now the mean of all the mean/standard deviation         values. There is one row of means for every subject and activity (with a total of 40 rows).
+**datamean**  
+An aggregate table of dataset. Contains Subject and Activity, but now the mean of all the mean/standard deviation values. There is one row of means for every subject and activity (with a total of 40 rows).
     
 
 
