@@ -20,6 +20,8 @@ This data.frame contains the data from both the test and trial. The columns are 
     
 **datamean**  
 An aggregate table of dataset. Contains Subject and Activity, but now the mean of all the mean/standard deviation values. There is one row of means for every subject and activity (with a total of 40 rows).
+
+**Edit test**
     
 
 
