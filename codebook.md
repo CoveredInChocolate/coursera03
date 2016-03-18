@@ -1,6 +1,6 @@
 # Codebook
 
-This repository is for the **Coursera - Data Science - 03 Getting and Cleaning Data** Project.
+A list of all columns in the final tables. Consult features_info_mod.txt for additional details on the measurements.
 
 ### Table: dataset
 
