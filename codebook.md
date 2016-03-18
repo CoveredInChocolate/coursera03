@@ -1,8 +1,8 @@
 # Codebook
 
-This repository is for the **Coursera - Data Science - 03 Getting and Cleaning Data** Project.
+This codebook is for the **Coursera - Data Science - 03 Getting and Cleaning Data** Project.
 
-### Table: dataset
+### Table: datamean
 
 | Column Name  | Description |
 | ------------- | ------------- |
@@ -74,81 +74,6 @@ This repository is for the **Coursera - Data Science - 03 Getting and Cleaning D
 | fBodyBodyGyroMag-std()| Measurement |
 | fBodyBodyGyroJerkMag-mean()| Measurement |
 | fBodyBodyGyroJerkMag-std()| Measurement |
-
-
-### Table: datamean
-
-| Column Name  | Description |
-| ------------- | ------------- |
-| Subject| Unique identifier for person performing test |
-| Activity| Action performed by subject |
-| mean_tBodyAcc-mean()-X| Measurement |
-| mean_tBodyAcc-mean()-Y| Measurement |
-| mean_tBodyAcc-mean()-Z| Measurement |
-| mean_tBodyAcc-std()-X| Measurement |
-| mean_tBodyAcc-std()-Y| Measurement |
-| mean_tBodyAcc-std()-Z| Measurement |
-| mean_tGravityAcc-mean()-X| Measurement |
-| mean_tGravityAcc-mean()-Y| Measurement |
-| mean_tGravityAcc-mean()-Z| Measurement |
-| mean_tGravityAcc-std()-X| Measurement |
-| mean_tGravityAcc-std()-Y| Measurement |
-| mean_tGravityAcc-std()-Z| Measurement |
-| mean_tBodyAccJerk-mean()-X| Measurement |
-| mean_tBodyAccJerk-mean()-Y| Measurement |
-| mean_tBodyAccJerk-mean()-Z| Measurement |
-| mean_tBodyAccJerk-std()-X| Measurement |
-| mean_tBodyAccJerk-std()-Y| Measurement |
-| mean_tBodyAccJerk-std()-Z| Measurement |
-| mean_tBodyGyro-mean()-X| Measurement |
-| mean_tBodyGyro-mean()-Y| Measurement |
-| mean_tBodyGyro-mean()-Z| Measurement |
-| mean_tBodyGyro-std()-X| Measurement |
-| mean_tBodyGyro-std()-Y| Measurement |
-| mean_tBodyGyro-std()-Z| Measurement |
-| mean_tBodyGyroJerk-mean()-X| Measurement |
-| mean_tBodyGyroJerk-mean()-Y| Measurement |
-| mean_tBodyGyroJerk-mean()-Z| Measurement |
-| mean_tBodyGyroJerk-std()-X| Measurement |
-| mean_tBodyGyroJerk-std()-Y| Measurement |
-| mean_tBodyGyroJerk-std()-Z| Measurement |
-| mean_tBodyAccMag-mean()| Measurement |
-| mean_tBodyAccMag-std()| Measurement |
-| mean_tGravityAccMag-mean()| Measurement |
-| mean_tGravityAccMag-std()| Measurement |
-| mean_tBodyAccJerkMag-mean()| Measurement |
-| mean_tBodyAccJerkMag-std()| Measurement |
-| mean_tBodyGyroMag-mean()| Measurement |
-| mean_tBodyGyroMag-std()| Measurement |
-| mean_tBodyGyroJerkMag-mean()| Measurement |
-| mean_tBodyGyroJerkMag-std()| Measurement |
-| mean_fBodyAcc-mean()-X| Measurement |
-| mean_fBodyAcc-mean()-Y| Measurement |
-| mean_fBodyAcc-mean()-Z| Measurement |
-| mean_fBodyAcc-std()-X| Measurement |
-| mean_fBodyAcc-std()-Y| Measurement |
-| mean_fBodyAcc-std()-Z| Measurement |
-| mean_fBodyAccJerk-mean()-X| Measurement |
-| mean_fBodyAccJerk-mean()-Y| Measurement |
-| mean_fBodyAccJerk-mean()-Z| Measurement |
-| mean_fBodyAccJerk-std()-X| Measurement |
-| mean_fBodyAccJerk-std()-Y| Measurement |
-| mean_fBodyAccJerk-std()-Z| Measurement |
-| mean_fBodyGyro-mean()-X| Measurement |
-| mean_fBodyGyro-mean()-Y| Measurement |
-| mean_fBodyGyro-mean()-Z| Measurement |
-| mean_fBodyGyro-std()-X| Measurement |
-| mean_fBodyGyro-std()-Y| Measurement |
-| mean_fBodyGyro-std()-Z| Measurement |
-| mean_fBodyAccMag-mean()| Measurement |
-| mean_fBodyAccMag-std()| Measurement |
-| mean_fBodyBodyAccJerkMag-mean()| Measurement |
-| mean_fBodyBodyAccJerkMag-std()| Measurement |
-| mean_fBodyBodyGyroMag-mean()| Measurement |
-| mean_fBodyBodyGyroMag-std()| Measurement |
-| mean_fBodyBodyGyroJerkMag-mean()| Measurement |
-| mean_fBodyBodyGyroJerkMag-std()| Measurement |
     
-
 
 

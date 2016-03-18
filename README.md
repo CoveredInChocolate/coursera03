@@ -5,7 +5,7 @@ This repository is for the **Coursera - Data Science - 03 Getting and Cleaning D
 ### Files
 Here is a list of the following files included in this repository:
 * README.md - you are reading it, buddy!
-* codebook.pdf - A brief instruction on data.frames and columns in the final result.
+* codebook.md - A brief instruction on data.frames and columns in the final result.
 * features_info_mod.txt - Modified file with info regarding the data.
 * run_analysis.R - Project R-script for getting and cleaning data.
 
@@ -20,9 +20,5 @@ This data.frame contains the data from both the test and trial. The columns are 
     
 **datamean**  
 An aggregate table of dataset. Contains Subject and Activity, but now the mean of all the mean/standard deviation values. There is one row of means for every subject and activity (with a total of 40 rows).
-
-**Edit test**
-    
-
 
 
